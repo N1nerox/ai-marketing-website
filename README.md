@@ -4,7 +4,7 @@ A responsive landing page for an AI Marketing platform.
 Built completely from scratch as a learning project to practice HTML, CSS, and JavaScript.  
 
 ## 🚀 Demo  
-[Live Demo](https://N1nerox.github.io/ai-marketing-website/)  
+[Live Demo](https://n1nerox.github.io/ai-marketing-website/)  
 
 ## ✨ Features  
 - Fully responsive design (desktop & mobile)  
