@@ -14,7 +14,7 @@ Built completely from scratch as a learning project to practice HTML, CSS, and J
 - Clean and simple UI  
 
 ## 🖼️ Screenshot  
-![Website Screenshot](assets/img/screenshot.png)  
+![Website Screenshot](assets/screenshot.png)  
 
 ## 🛠️ Technologies  
 - HTML5  
